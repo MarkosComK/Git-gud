@@ -2,12 +2,24 @@
 
 Master your Git skills and become a Git pro! This repository helps you practice Git fundamentals through hands-on exercises.
 
+## [Git Basics Roadmap](BASICS.md)
+
+- [Git Setup](BASICS.md#level-1-git-setup)
+- [Local Git](BASICS.md#level-2-local-git)
+- [Remote Git](BASICS.md#level-3-remote-git)
+- [Branching](BASICS.md#level-4-branching)
+- [Collaboration](BASICS.md#level-5-collaboration)
+- [Advanced Topics](BASICS.md#level-6-advanced-topics)
+- [Resources](BASICS.md#resources)
+
+
 ## Contributors
 
 <a href="https://github.com/MarkosComK/Git-gud/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MarkosComK/Git-gud" />
 </a>
 
+<br>
 So, you want to smash showing your git abilities?
 
 You came to the right place, here you'll be a git master and finally be "gud at git"
